@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JotaStratego
+- 👋 Hi, I’m @JotaStratego. My real name is Javier Álvarez Villa. Actually i'm working as nurse in Hospital de la Santa Creu and Sant Pau in Barcelona. 
 - 👀 I’m interested in chess and programming
 - 🌱 I’m currently learning Python and C. I'm student from 42 Barcelona. 
 - 💞️ I’m learning about the programming's world. 
